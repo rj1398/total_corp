@@ -2,6 +2,7 @@ In This assignment the user details are fetched on the basis of user ids.
 
 use command:
 go run main.go
+
 to run the project
 
 
