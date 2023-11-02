@@ -1,4 +1,4 @@
-package totalcorp
+package total_corp
 
 import (
 	"log"
