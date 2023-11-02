@@ -1,8 +1,13 @@
-
+In This assignment the user details are fetched on the basis of user ids.
 
 use command:
 go run main.go
 to run the project
+
+
+Port Address = 8080
+
+The End Points are:
 
 
 Request 1: To get single User
